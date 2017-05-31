@@ -6,3 +6,5 @@ dir > zoznam.txt
 REM Alebo ak potrebujete vypísať iba názvy súborov bez ostatných informácií, použite prepínač /b takto:
 
 dir /b > zoznam.txt
+
+REM Úloha: pomocou prepínača /? zistite ďalšie prepínače, ktoré by sa nám mohli hodiť.
